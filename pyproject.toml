@@ -1,0 +1,17 @@
+[project]
+name = "tr-gy-8013-fa-24"
+version = "0.1.0"
+description = "Tr-GY-8013 course materials"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupytext>=1.16.4",
+    "jupyterlab>=4.2.5",
+    "numpy>=2.1.0",
+    "matplotlib>=3.9.2",
+    "ipykernel>=6.29.5",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
