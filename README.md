@@ -1,8 +1,8 @@
 # tr-gy-8013-Fa-24
 Course material for Fall 24 Deep Learning for Urban Systems Course
 
-# setup procedure
-We use conda to manage the dependencies. First, make sure you have conda installed. If you don't have conda installed, you can install it by following the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Note, if you're feeling fancy and want to make things faster, you can instead install micromamba by following the instructions [here](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). This is basically identical to Conda but faster.
+# Setup procedure
+We use conda to manage the dependencies. First, make sure you have conda installed. If you don't have conda installed, you can install it by following the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Note, if you're feeling fancy and want to make things faster, you can instead install micromamba by following the instructions [here](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html). This is basically identical to Conda but faster. [UV](https://github.com/astral-sh/uv) is also an increasingly popular choice; we won't be using it for this course but you're welcome to try it out. It's fast due to being written in Rust and is pretty neat. Reminder, everything by default will assume you're using Conda but it shouldn't be too much work to use one of the other package managers instead and long-term might be faster.
 
 To create the environment, you can run the following command:
 ```bash
