@@ -10,6 +10,8 @@ dependencies = [
     "numpy>=2.1.0",
     "matplotlib>=3.9.2",
     "ipykernel>=6.29.5",
+    "torch>=2.4.0",
+    "ruff>=0.6.3",
 ]
 
 [build-system]
