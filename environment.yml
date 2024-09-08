@@ -1,0 +1,5 @@
+name: dl_urban
+
+dependencies:
+  - python=3.12
+  - pip
