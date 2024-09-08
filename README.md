@@ -8,3 +8,13 @@ Then, when that is done, you can create a virtual environment by running the fol
 ```bash
 uv run tr_gy_8013_fa_24/setup.py
 ```
+
+# running the examples
+Most of the homeworks and lectures are written in jupyter. To run the jupyter notebooks, you can run the following command:
+```bash
+uv run jupyter notebook
+```
+You can also, if you want, activate the virtual environment using
+```bash
+source .venv/bin/activate
+```
