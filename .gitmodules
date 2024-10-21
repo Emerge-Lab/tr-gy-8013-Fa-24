@@ -1,0 +1,3 @@
+[submodule "submodules/av2-api"]
+	path = submodules/av2-api
+	url = https://github.com/argoverse/av2-api.git
